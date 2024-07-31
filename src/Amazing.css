@@ -1,0 +1,31 @@
+.amazing{
+    background-image: url(https://preview.colorlib.com/theme/travello/images/why.jpg);
+    height: 832px;
+    background-position: center;
+    margin-top: 100px;
+}
+.fig{
+    width: 25%;
+  background: #FFFFFF;
+}
+.amaze{
+    padding-top: 100px;
+}
+.amaze-content{
+    padding-top: 48px;
+  padding-bottom: 55px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.amaze-one{
+    padding-top: 100px;
+}
+.related-img{
+    position: absolute;
+    margin-top: -220px;
+  margin-left: 130px;
+  width: 73px;
+  height: 73px;
+  background: #f2f5f6;
+  border-radius: 50%;
+}

@@ -1,0 +1,53 @@
+.footer{
+    background-image: url(https://preview.colorlib.com/theme/travello/images/footer_1.jpg);
+    height: 750px;
+    margin-top: 100px;
+    background-position: center;
+}
+.imgone{
+    width: 100%;
+}
+.fdiv{
+    padding-top: 100px;
+}
+.fdiv p{
+    margin-top: 50px;
+}
+.footer_one{
+    margin-top: 85px;
+
+}
+.footerinput{
+    width: 38%;
+  height: 50px;
+  background: rgba(255,255,255,0.5);
+  border: none;
+  outline: none;
+  padding-left: 22px;
+  color: #FFFFFF;
+}
+.footerbtn{
+    width: 161px;
+  height: 50px;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.5);
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.footer_icon{
+    width: 68px;
+  height: 68px;
+}
+.figure{
+    width: 100%;
+}
+.figcap{
+    margin-top: 100px;
+    margin-left: 100px;
+}

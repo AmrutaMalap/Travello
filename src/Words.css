@@ -1,0 +1,38 @@
+.about{
+    margin-top: 100px;
+}
+.about-one{
+    padding-top: 50px;
+}
+.about-two{
+    padding-top: 50px;
+}
+.aboutbtn{
+    width: 161px;
+    height: 52px;
+    background: rgba(24, 24, 24, 1);
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 50px;
+    
+}
+.aboutimg{
+  width: 100%;  
+
+}
+.word_img{
+    width: 30%;
+}
+.abpara{
+    font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.9285;
+  font-weight: 400;
+  color: #72728c;
+}
+.abpara-one{
+    font-size: 18px;
+  font-weight: 700;
+  color: #181818;
+  line-height: 1.66;
+}

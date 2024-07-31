@@ -1,0 +1,19 @@
+.places{
+    background-image: url(https://preview.colorlib.com/theme/travello/images/testimonials.jpg.webp);
+    height: 600px;
+    background-position: center;
+
+}
+.testimonial{
+    font-size: 30px;
+  font-style: italic;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 50px;
+}
+.heading{
+    margin-top: 26px;
+}
+.span{
+    padding-top: 100px;
+}

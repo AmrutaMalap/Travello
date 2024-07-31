@@ -1,0 +1,48 @@
+.category{
+    margin-top: 100px;
+}
+.camel{
+    width: 70%;
+}
+.camelone{
+    width: 32%;
+}
+.Cbtn{
+    width: 161px;
+    height: 52px;
+    background: rgba(24, 24, 24, 1);
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.june{
+    margin-top: 20px;
+}
+.juneimg{
+    margin-top: 100px;
+}
+.discount{
+    background-image: url(https://preview.colorlib.com/theme/travello/images/travello.jpg.webp);
+    background-position: center;
+}
+.get{
+    font-family: 'Oswald', sans-serif;
+    font-size: 48px;
+    color: #FFFFFF;
+    max-width: 210px;
+    line-height: 1;
+}
+.subget{
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 6px;
+    font-weight: 400;
+}
+.discount{
+        width: 30%;
+}
+.mainget{
+    background-color: #e83e8c;
+    margin-top: 586px;
+}

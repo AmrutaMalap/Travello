@@ -1,0 +1,61 @@
+.touch-wrapper{
+    margin-top: 100px;
+}
+.touch-one h3{
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+    color: #181818; 
+    margin-bottom: 20px;
+}
+.touch-one p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.9285;
+    font-weight: 400;
+    color: #72728c;
+    margin-bottom: 30px;
+}
+.touch-one div{
+    width: 104px;
+    height: 34px;
+    background: #181818;
+    font-family: 'Oswald', sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 34px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.cinput{
+    width: 100%;
+    height: 53px;
+    background: #f2f5f6;
+    border: none;
+    outline: none;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+.textarea{
+    height: 163px;
+    padding-top: 12px;
+}
+.touchtwo{
+    width: 45%;
+}
+.indiv input{
+    width: 48%;
+}
+.contactbtn{
+    width: 161px;
+    height: 52px;
+    background: #181818;
+    font-family: 'Oswald', sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    border: none;
+    margin-top: 35px;
+}

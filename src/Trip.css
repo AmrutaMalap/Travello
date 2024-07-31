@@ -1,0 +1,38 @@
+.tripimg{
+    width: 34.8%;
+    
+}
+.trippara{
+    width: 65.2%;
+  padding-left: 30px;
+}
+
+.discountone{
+  background-image: url(https://preview.colorlib.com/theme/travello/images/travello.jpg.webp);
+  background-position: center;
+}
+.get{
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
+  color: #FFFFFF;
+  max-width: 210px;
+  line-height: 1;
+}
+.subget{
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-top: 6px;
+  font-weight: 400;
+}
+.discountone{
+      width: 30%;
+      margin-left: -600px;
+}
+.mainget{
+  background-color: #e83e8c;
+  margin-top: 586px;
+}
+.trip{
+  margin-top: 100px;
+}

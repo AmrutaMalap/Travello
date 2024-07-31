@@ -1,0 +1,94 @@
+.header{
+    background-image:url(https://preview.colorlib.com/theme/travello/images/home_slider.jpg.webp);
+    height: 833px;
+    background-position: center;
+}
+.header-wrapper{
+    padding-top: 250px;
+}
+.header-trip{
+    margin-top: 120px;
+    padding-top: 47px;
+  top: -353px;
+  width: calc(100% + 122px);
+  left: -61px;
+  padding-left: 61px;
+  padding-right: 61px;
+  padding-bottom: 59px;
+  background: rgba(255,255,255,0.26);
+  border-radius: 12px;
+ 
+}
+.bg-img{
+    background-image: url(https://preview.colorlib.com/theme/travello/images/intro.png.webp);
+    height: 500px;
+    background-position: center;
+}
+.para{
+    height: 50px;
+  background: #FFFFFF;
+  border: none;
+  outline: none;
+  padding: 17px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.input{
+    height: 50px;
+  background: #f2f5f6;
+  border: none;
+  outline: none;
+  padding-left: 17px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px ;
+  font-weight: 500 ;
+  color: #72728c ;
+}
+.subbtn{
+    width: 161px;
+  height: 52px;
+  background: #181818;
+  color: #FFFFFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  
+}
+.home-search{
+    width: 100%;
+  background: #FFFFFF;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 67px;
+  padding-right: 83px;
+}
+.list{
+    position: absolute;
+  right: 60px;
+  top: 44.2%;
+  z-index: 2;
+  box-sizing: border-box;
+  text-shadow: rgba(0,0,0,.01) 0 0 1px;
+
+}
+.list ul li a{
+    font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  color: rgba(255,255,255,0.63);
+  text-decoration: none;
+  background-color: transparent;
+  
+}
+.list ul li span{
+    font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  color: rgba(255,255,255,0.63);
+  text-decoration: none;
+  background-color: transparent;
+  
+}
+
